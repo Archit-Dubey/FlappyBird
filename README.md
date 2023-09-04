@@ -9,6 +9,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Play](#play)
+- [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,6 +30,10 @@ Flappy Bird is a popular 2D game where the player controls a bird and tries to n
 ## Play
 
 Simply click on this link to redirect to the game [https://archit-dubey.github.io/FlappyBird/](https://archit-dubey.github.io/FlappyBird/)
+
+##Screenshots
+
+<img src="https://github.com/Archit-Dubey/FlappyBird/Screenshots/1.png" width="210" /> | <img src="https://github.com/Archit-Dubey/FlappyBird/Screenshots/2.png" width="210" />
 
 ## Usage
 
