@@ -33,7 +33,7 @@ Simply click on this link to redirect to the game [https://archit-dubey.github.i
 
 ## Screenshots
 
-<img src="https://github.com/Archit-Dubey/FlappyBird/blob/main/Screenshots/1.png" width="210" /> | <img src="https://github.com/Archit-Dubey/FlappyBird/blob/main/Screenshots/1.png" width="210" />
+<img src="https://github.com/Archit-Dubey/FlappyBird/blob/main/Screenshots/1.png" width="420" /> &nbsp;&nbsp; <img src="https://github.com/Archit-Dubey/FlappyBird/blob/main/Screenshots/2.png" width="420" />
 
 ## Usage
 
